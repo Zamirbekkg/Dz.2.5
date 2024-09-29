@@ -1,0 +1,50 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: blue;
+}
+
+.NameDiv{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    flex-grow: initial;
+    margin-top: 400px;
+    margin-left: -100px;
+}
+
+.list{
+    height: 200px;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: -150px;
+}
+
+.inputName{
+    height: 30px;
+    width: 180px;
+    margin-left: -190px;
+    margin-top: -170px;
+}
+
+.btn{
+    width: 90px;
+    height: 30px;
+    margin-left: -150px;
+    margin-top: -80px;
+}
+
+.ulName{
+    width: 70px;
+    height: 40px;
+    margin-top: 20px;
+    margin-left: -80px;
+    color: #fff;
+}
